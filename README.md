@@ -2,5 +2,5 @@
 I am Ajith
 I do research on Programming, AI, Algorithms
 
-[Instagram](https://www.instagram.com/ajith_raghavan/)
-[Twitter](https://twitter.com/ajith2krishna)
+Here is my [Instagram](https://www.instagram.com/ajith_raghavan/)
+Here is my [Twitter](https://twitter.com/ajith2krishna)
